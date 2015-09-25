@@ -2,18 +2,20 @@
 
 ![](./screenshot.png)
 
-此扩展需要开启网易云音乐全局快捷键（这使云音乐在后台时也可以相应），然后点击恢复默认既可。
+此扩展需要开启网易云音乐全局快捷键（这使云音乐在后台时也可以响应），点击恢复默认后既可立刻使用此扩展。
 
 ### 下载
 
-点击[**这里**](https://github.com/li-xinyang/AW_NeteaseAlfredController/blob/master/NeteaseMusicController.alfredworkflow?raw=true)下载，下载后双击既可自动导入（你需要拥有 Alfred Powerpack，免费版并不支持工作流扩展）。
+点击[**这里**](https://github.com/li-xinyang/AW_NeteaseAlfredController/blob/master/NeteaseMusicController.alfredworkflow?raw=trueg)下载，下载后双击既可自动导入（你需要拥有 Alfred Powerpack，免费版并不支持工作流扩展）。
 
 ### 支持功能
 
-`p` - 暂停与播放
-`next` - 下一首列表中的歌曲
-`previous` - 上一首列表中的歌曲
-`love` - 为当前歌曲加心
+|关键字|功能描述|
+|------|--------|
+|`p`|暂停与播放|
+|`next`|下一首列表中的歌曲|
+|`previous`|上一首列表中的歌曲|
+|`love`|为当前歌曲加心|
 
 **参考资源**
 
