@@ -16,6 +16,8 @@
 |`nmnx` or `nmnext`|下一首列表中的歌曲|
 |`nmpr` or `nmprevious`|上一首列表中的歌曲|
 |`nmlv` or `nmlove`|为当前歌曲加心|
+|`nm vu` or `nm volumup`|增加音量|
+|`nm vd` or `nm volumdown`|减小音量|
 
 **参考资源**
 
