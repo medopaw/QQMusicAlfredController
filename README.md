@@ -1,8 +1,14 @@
 # 网易音乐 Alfred 控制器
 
-![Screenshot](./alfred-screenshot.png)
+![Screenshot](./img/alfred-screenshot.png)
 
-此扩展需要开启网易云音乐全局快捷键（这使云音乐在后台时也可以响应），点击恢复默认后既可立刻使用此扩展。
+此扩展需要开启网易云音乐全局快捷键（这使云音乐在后台时也可以响应）
+
+**为避免按键冲突请将全局快捷键设置为下图所示**
+
+![NeteaseMusic Keybinding](./img/netseat-music-setting.png)
+
+此版本兼容 Alfred 2 和 Alfred 3
 
 ### 下载
 
